@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+~;Waltz's github page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+~;Waltz's github page;)](https://git.io/typing-svg)
 <p>
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=LCIWalt&show_icons=true&count_private=true&theme=transparent&line_height=28">
