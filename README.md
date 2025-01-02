@@ -29,7 +29,7 @@
 
 > Database, operation system and tools ever worked with.
 
-[![editor](https://skillicons.dev/icons?i=vscode,androidstudio,vim,visualstudio,linux,ubuntu,kali,windows,docker,bash,git,github,gitlab,gradle,maven,anaconda,npm,yarn,nginx,idea)](https://skillicons.dev)
+[![editor](https://skillicons.dev/icons?i=kotlin,vscode,androidstudio,vim,visualstudio,linux,ubuntu,kali,windows,docker,bash,git,github,gitlab,gradle,maven,anaconda,npm,yarn,nginx,idea)](https://skillicons.dev)
 
 
 
