@@ -4,7 +4,7 @@
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=LCIWalt&show_icons=true&count_private=true&theme=transparent&line_height=28">
 
-- 😆 will be hyperOS developer, wanna be a Senior Client-Side Engineer
+- 😆 MIUI Launcher / hyperOS developer, wanna be a Senior Client-Side Engineer
 - 😆 A shallow ( senior's antonym in Chinese, lol~ ) coder.
 - 💌 Become a coder because of love for creation.
 - 🔥 A full-stack enginer currently ...but write ugly CSS...
